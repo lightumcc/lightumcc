@@ -18,10 +18,9 @@ I'm a self-taught passionate FrontEnd developer from China🇨🇳
 <a href="https://github.com/CreatechStudio/MC-Mod-Integration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=buefy" />
 </a>
-<a href="https://github.com/lightumcc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightumcc" />
+<a href="https://github.com/ChiFeng26/2204-version4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChiFeng26&repo=2204-version4&theme=buefy" />
 </a>
-
 <br />
 <br />
 
