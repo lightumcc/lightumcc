@@ -1,5 +1,4 @@
-| <a href="https://github.com/lightumcc/lightumcc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lightumcc&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="lightumcc's github stats" /></a> | <a href="https://github.com/lightumcc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightumcc&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/lightumcc/lightumcc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lightumcc&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="lightumcc's github stats" /></a>
 
 #### Top Repositories
 
