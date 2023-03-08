@@ -1,10 +1,10 @@
-<a href="https://github.com/lightumcc/lightumcc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lightumcc&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="lightumcc's github stats" /></a>
+<a href="https://github.com/lightumcc/lightumcc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lightumcc&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="lightumcc's github stats" /></a>
 
 #### Top Repositories
 
 
 <a href="https://github.com/CreatechStudio/MC-Mod-Integration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=transparent" />
 </a>
 <br />
 <br />
