@@ -15,8 +15,8 @@ I'm a self-taught passionate FrontEnd developer from China🇨🇳
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightumcc&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/CreatechStudio/MC-Mod-Integration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=buefy" />
 </a>
 <a href="https://github.com/lightumcc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lightumcc" />
@@ -26,5 +26,5 @@ I'm a self-taught passionate FrontEnd developer from China🇨🇳
 <br />
 
 <a href="https://twitter.com/CreatechStudio">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/lightumcc/lightumcc/master/assets/twitter.svg" />
+  <img align="right" alt="CreatechStudio | Twitter" width="21px" src="https://raw.githubusercontent.com/lightumcc/lightumcc/master/assets/twitter.svg" />
 </a>
