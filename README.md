@@ -12,8 +12,8 @@
 </a>
 <br />
 <br />
-<a href="https://github.com/iewnfod/CAIE-Code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iewnfod&repo=CAIE-Code&theme=transparent" />
+<a href="https://github.com/iewnfod/CAIE_Code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iewnfod&repo=CAIE_Code&theme=transparent" />
 </a>
 <br />
 <br />
