@@ -22,10 +22,6 @@
 </a>
 <br />
 <br />
-<a href="https://github.com/CreatechStudio/Raycast-Script">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=Raycast-Script&theme=transparent" />
-</a>
-<br />
 
 <a href="https://twitter.com/CreatechStudio">
   <img align="right" alt="CreatechStudio | Twitter" width="21px" src="https://raw.githubusercontent.com/lightumcc/lightumcc/master/assets/twitter.svg" />
