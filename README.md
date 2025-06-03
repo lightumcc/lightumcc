@@ -2,7 +2,7 @@
 * 😙 My name is **lightumcc**
 * 🔥 Founder of **CreatechStudio**
 * ⚡ Swift / TypeScript / Python3
-* 🪐 Offsec Security / Game / Taylor Swift
+* 🪐 Offsec / Game / Taylor Swift
 
 ### Github Contributions
 | <picture><img src="https://github-readme-stats.vercel.app/api?username=lightumcc&show_icons=true&hide_border=true&theme=transparent" align="center" alt="lightumcc's Github Stats"/></picture> |
