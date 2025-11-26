@@ -5,7 +5,7 @@
 * 🪐 Offsec / Game / Taylor Swift
 
 ### Github Contributions
-| <picture><img src="https://github-readme-stats.vercel.app/api?username=lightumcc&show_icons=true&hide_border=true&theme=transparent" align="center" alt="lightumcc's Github Stats"/></picture> |
+| <picture><img src="https://github-readme-stats.createchstudio.com/api?username=lightumcc&show_icons=true&hide_border=true&theme=transparent" align="center" alt="lightumcc's Github Stats"/></picture> |
 | - |
 
 <picture>
@@ -21,5 +21,5 @@
 ### Top Repositories
 |||
 | - | - |
-| <a href="https://github.com/CreatechStudio/MC-Mod-Integration"><picture><img src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=transparent" /></picture></a> | <a href="https://github.com/iewnfod/CAIE-Code-Extension"><picture><img src="https://github-readme-stats.vercel.app/api/pin/?username=iewnfod&repo=CAIE-Code-Extension&theme=transparent" /></picture></a> |
-| <a href="https://github.com/iewnfod/CAIE_Code"><picture><img src="https://github-readme-stats.vercel.app/api/pin/?username=iewnfod&repo=CAIE_Code&theme=transparent" /></picture></a> | <a href="https://github.com/CreatechStudio/EnvXSync"><picture><img src="https://github-readme-stats.vercel.app/api/pin/?username=CreatechStudio&repo=EnvXSync&theme=transparent" /></picture></a> |
+| <a href="https://github.com/CreatechStudio/MC-Mod-Integration"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=transparent" /></picture></a> | <a href="https://github.com/iewnfod/CAIE-Code-Extension"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=iewnfod&repo=CAIE-Code-Extension&theme=transparent" /></picture></a> |
+| <a href="https://github.com/iewnfod/CAIE_Code"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=iewnfod&repo=CAIE_Code&theme=transparent" /></picture></a> | <a href="https://github.com/CreatechStudio/EnvXSync"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=CreatechStudio&repo=EnvXSync&theme=transparent" /></picture></a> |
