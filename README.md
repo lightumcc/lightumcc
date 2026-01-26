@@ -21,5 +21,5 @@
 ### Top Repositories
 |||
 | - | - |
-| <a href="https://github.com/CreatechStudio/MC-Mod-Integration"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=CreatechStudio&repo=MC-Mod-Integration&theme=transparent" /></picture></a> | <a href="https://github.com/iewnfod/CAIE-Code-Extension"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=iewnfod&repo=CAIE-Code-Extension&theme=transparent" /></picture></a> |
+| <a href="https://github.com/CreatechStudio/VGORC-Tournament-Manager"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=CreatechStudio&repo=VGORC-Tournament-Manager&theme=transparent" /></picture></a> | <a href="https://github.com/iewnfod/CAIE-Code-Extension"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=iewnfod&repo=CAIE-Code-Extension&theme=transparent" /></picture></a> |
 | <a href="https://github.com/iewnfod/CAIE_Code"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=iewnfod&repo=CAIE_Code&theme=transparent" /></picture></a> | <a href="https://github.com/CreatechStudio/EnvXSync"><picture><img src="https://github-readme-stats.createchstudio.com/api/pin/?username=CreatechStudio&repo=EnvXSync&theme=transparent" /></picture></a> |
