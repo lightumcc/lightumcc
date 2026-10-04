@@ -1,6 +1,6 @@
 ### Hi, I'm lightumcc
 * 😙 My name is **lightumcc**
-* 🔥 Founder of **CreatechStudio**
+* 🔥 Founder of **Createch Intelligence**
 * ⚡ Swift / TypeScript / Python3
 * 🪐 Offsec / Game / Taylor Swift
 
